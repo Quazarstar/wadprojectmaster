@@ -405,16 +405,16 @@ $("#showcal").click(function(){
               <div id ="movies" class="left">
                  <?php
         
-                  // Load the XML source
+                  
                   $xml = new DOMDocument;
                   $xml->load('index.xml');
                   
                   $xsl = new DOMDocument;
                   $xsl->load('test.xsl');
                   
-                  // Configure the transformer
+                 
                   $proc = new XSLTProcessor;
-                  $proc->importStyleSheet($xsl); // attach the xsl rules
+                  $proc->importStyleSheet($xsl); 
                   
                   echo $proc->transformToXML($xml);
                   

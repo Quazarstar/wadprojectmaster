@@ -405,16 +405,26 @@ $("#showcal").click(function(){
               <div id ="movies" class="left">
                  <?php
         
+
                   
+
+                  // Load the XML source
+
                   $xml = new DOMDocument;
                   $xml->load('index.xml');
                   
                   $xsl = new DOMDocument;
                   $xsl->load('test.xsl');
                   
+
                  
                   $proc = new XSLTProcessor;
                   $proc->importStyleSheet($xsl); 
+
+                  // Configure the transformer
+                  $proc = new XSLTProcessor;
+                  $proc->importStyleSheet($xsl); // attach the xsl rules
+
                   
                   echo $proc->transformToXML($xml);
                   
@@ -505,4 +515,8 @@ $("#showcal").click(function(){
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
+<<<<<<< HEAD
 </html>
+=======
+</html>
+>>>>>>> 346530cb9512d50252eebec7f8bb50c62a8c66ae

@@ -515,8 +515,8 @@ $("#showcal").click(function(){
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
   </body>
-<<<<<<< HEAD
+
 </html>
 =======
 </html>
->>>>>>> 346530cb9512d50252eebec7f8bb50c62a8c66ae
+

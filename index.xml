@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Link to stylesheet/XSLT-->
+<?xml-stylesheet  href="test.xsl" type="text/xsl"?>
+
+<store>
+    <movie>
+        <game>Call Of Duty: Black Ops III</game>
+        <description>
+        Call of Duty®: Black Ops III deploys its players into
+        a future where biotechnology has enabled a new breed 
+        of Black Ops soldier. Call of Duty: Black Ops III for
+        PlayStation® 3 and Xbox 360 features two modes only: 
+        Multiplayer and Zombies, providing fans with
+        an expansive Multiplayer and an 
+        all-new film-noir Zombies adventure. 9/10
+              </description>
+        <developers>
+            <developer>
+                <name> Treyarch</name>
+            </developer>
+        </developers>
+        <casts>
+            <starring> Smosh</starring>
+            
+        </casts>
+        
+        <price>‎‎Price € 59.99</price>
+    </movie>
+    <movie>
+        <game>FIFA 15</game>
+        <description>
+           FIFA 15 brings football to life in stunning detail so
+            fans can experience the emotion of the sport like
+           never before. Witness the intensity of crowds
+         chanting and cheering like on match day, and listen to
+         commentators guide fans through the story of the 
+        game with Dynamic Match Presentation... 8/10
+
+        </description>
+        <developers>
+            <developer>
+                <name> EA</name>
+            </developer>
+        </developers>
+        <casts>
+           <starring>John</starring>
+        </casts>
+       
+        <price>‎Price € 39.99</price>
+    </movie>
+    <movie>
+        <game>Minecraft</game>
+        <description>
+           Minecraft: Story Mode is an adventure game set in 
+           a Minecraft world. It is a five-part episodic series that
+            will take you to the Nether, the Farlands, the End, 
+            and beyond! You will drive how the story flows through
+           the decisions you make: what you say to people 
+            (and how you say it), and what you choose to do in
+             moments of thrilling action. 9/10
+
+        </description>
+        <developers>
+            <developer>
+                <name> Mojang </name>
+            </developer>
+        </developers>
+        <casts>
+            <starring> Ade</starring>
+        </casts>
+        
+        <price>‎Price € 44.99</price>
+    </movie>
+     <movie>
+        <game>Just Cause3</game>
+        <description>
+            Includes 3 x exclusive vehicles primed for action:
+
+            Knife through the Medician waves in the Mugello Delphino GLF speedboat with the finest brushed Italian leather seats and subtle dual miniguns.
+            Taking its name from the Russian wolverine, exude adventure with the all-terrain Urga Pocomaxa X4 buggy, especially when that adventure requires mounted machine guns.
+            For the more refined combat professional, drive the Kerner Serpente R12 sports car with precision rocket launchers elegantly engineered right into the hood.. 7/10
+        </description>
+        <developers>
+            <developer>
+                <name>  Avalanche Studios</name>
+            </developer>
+        </developers>
+        <casts>
+            <starring> Smosh</starring>
+        </casts>
+       
+        <price>‎‎Price € 69.99</price>
+    </movie>
+    <movie>
+        <game>Rise Of The Tomb Raider</game>
+        <description>
+           Featuring epic, high-octane action moments set in the most 
+            beautifully hostile environments on earth, Rise of the Tomb 
+            Raider delivers a cinematic survival action adventure where
+             you will join Lara Croft on her first tomb raiding expedition as 
+            she seeks to discover the secret of immortality. 7/10
+
+        </description>
+        <developers>
+            <developer>
+                <name> Crystal Dynamics</name>
+            </developer>
+        </developers>
+        <casts>
+            <starring>Zoe Saldana</starring>
+        </casts>
+       
+        <price>‎Price € 69.99</price>
+    </movie>
+   
+    <movie>
+      <game>SWWE 2K16</game>
+        <description>
+            The authority in WWE video games returns with WWE 2K16!
+
+          The newest addition to the flagship WWE franchise will deliver 
+          authentic, high-powered and hard-hitting action, including 
+          fan-favourite features and new WWE Superstars, Divas and Legends, 
+          gameplay innovations, presentation updates and more. 8/10
+          </description>
+        <developers>
+            <developer>
+                <name>Youssef Chahine</name>
+            </developer>
+        </developers>
+        <casts>
+            <starring>Youssef Chahine</starring>
+            <starring>Claude Lelouch</starring>
+            <starring>Samira Makhmalbaf</starring>
+        </casts>
+        
+        <price>‎Price € 7.99</price>
+    </movie>
+     <movie>
+        <game>Ori and the blind forest</game>
+        <description>
+            Ori and the Blind Forest is a single-player-only platform 
+            adventure video game designed by Moon Studios, an independent 
+            developer, and published by Microsoft Studios. The game was 
+            released on March 11, 2015 for Microsoft Windows and Xbox One, and 
+            has currently won several game awards. Highly reccomended. 10/10
+        </description>
+        <developers>
+            <developer>
+                <name> Moon Studios </name>
+            </developer>
+        </developers>
+        <casts>
+            <starring> Thomas Mahler</starring>
+            <starring>Gareth Coker</starring>
+            <starring>Microsoft Studios</starring>
+        </casts>
+      
+        <price>‎‎Price € 19.99</price>
+    </movie>
+    <movie>
+        <game>Dark souls II</game>
+        <description>
+            Dark Souls takes place in the fictional kingdom of Lordran. 
+            Players assume the role of a cursed undead character who has 
+            been chosen to make a pilgrimage out of the Undead Asylum to 
+            discover the fate of the Undead. The plot of Dark Souls is 
+            primarily told through descriptions of in-game items and dialogue 
+            with non-playable characters, and tells a chilling narrative that
+            we do not wish to spoil for anyone, highly reccomended if a fan
+            of rpg games. 10/10
+        </description>
+        <developers>
+            <developer>
+                <name> FromSoftware</name>
+            </developer>
+        </developers>
+        <casts>
+            <starring>Hidetaka Miyazaki</starring>
+            <starring>Daisuke Uchiyamal</starring>
+            <starring>Kei Hirono</starring>
+        </casts>
+       
+        <price>‎Price € 19.99</price>
+    </movie>
+    <movie>
+        <game>Elder scrolls V: Skyrim</game>
+        <description>
+           Skyrim‍ '​s main story revolves around the player character 
+           and their effort to defeat Alduin the World-Eater, a dragon 
+           who is prophesied to destroy the world. The game is set two 
+           hundred years after the events of Oblivion and takes place in 
+           the fictional province of Skyrim. Over the course of the game, 
+           the player completes quests and develops the character by improving 
+           skills. Skyrim continues the open world tradition of its predecessors 
+           by allowing the player to travel anywhere in the game world at any 
+           time, and to ignore or postpone the main storyline indefinitely. How
+           you play is up to you and this is certinly the highlight of this game.
+           10/10
+        </description>
+        <developers>
+            <developer>
+                <name>Bethesda Game Studios</name>
+            </developer>
+        </developers>
+        <casts>
+            <starring>Todd Howard</starring>
+            <starring>Craig Lafferty</starring>
+            <starring>Ashley Cheng</starring>
+        </casts>
+        
+        <price>‎Price € 14.99</price>
+    </movie>
+    
+</store>

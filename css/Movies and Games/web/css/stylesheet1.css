@@ -1,0 +1,23 @@
+h1 	
+{		
+width: 45%;
+font-variant: small-caps;
+font-family: "Courier New", Courier, monospace;
+text-shadow: -2px -2px red;
+letter-spacing:0.1em;
+color: white;
+background-color: black;
+padding: 3px;
+margin: 0 auto;
+}	
+
+ #slide1
+ {
+ padding-top: 60px;
+ }
+ a, a:active{
+ color: blue;
+ }
+ a:hover{
+ color: red;
+ }

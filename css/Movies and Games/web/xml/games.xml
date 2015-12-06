@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <movie>
+        <title>21 Jump Street</title>
+        <description>
+            ////////////////////////////////// 
+        </description>
+        <directors>
+            <director>
+                <name> Channing Tatum</name>
+            </director>
+        </directors>
+        <casts>
+            <starring> Jack Nicholson</starring>
+            <starring>Georgianna Carter</starring>
+            <starring>Robert Bean</starring>
+        </casts>
+        <movieImage>images/Jumpstreet.jpg</movieImage>
+       <video>//www.youtube.com/embed/ZirgAYBcOgo</video>
+        <price>‎‎Price € 9.99</price>
+    </movie>
+    <movie>
+        <title>Wild Ride</title>
+        <description>
+           ///////////////////// 
+           ///////////////////////////////////
+        <directors>
+            <director>
+                <name> Harvey Berman</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Jack Nicsholson</starring>
+            <starring>Georgianna Carter</starring>
+            <starring>Charles Dance</starring>
+        </casts>
+        <video>//www.youtube.com/embed/3GAJR-sYoKU</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>Big Sleep</title>
+        <description>
+            ////////////////////////////////////////////
+        </description>
+        <directors>
+            <director>
+                <name>Phil Lord</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Kristen Bell</starring>
+            <starring>Idina Menzel</starring>
+            <starring>Jonathan Groff</starring>
+        </casts>
+        <video>//www.youtube.com/embed/VjJlBnfyiI4</video>
+        <price>‎Price € 5.99</price>
+    </movie>
+     <movie>
+        <title>Brother Bear</title>
+        <description>
+          //////////////////////////////////////////
+        </description>
+        <directors>
+            <director>
+                <name> Aaron Blaise</name>
+            </director>
+        </directors>
+        <casts>
+            <starring> Joaquin Phoenix</starring>
+            <starring>Jeremy Suarez</starring>
+            <starring>Rick Moranis</starring>
+        </casts>
+       <video>//www.youtube.com/embed/B80VKbxZs6E</video>
+        <price>‎‎Price € 9.99</price>
+    </movie>
+    <movie>
+        <title>The Losers</title>
+        <description>
+           /////////////////////////////////////////////////////
+        <directors>
+            <director>
+                <name> Sylvain White</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Zoe Saldana</starring>
+            <starring>Idris Elba</starring>
+            <starring>Jeffrey Dean</starring>
+        </casts>
+       <video>//www.youtube.com/embed/o_K6y8ihyi8</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>Death In Gaza</title>
+        <description>
+           //////////////////////////////////////////////////////////////////////////
+        <directors>
+            <director>
+                <name>James Miller</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>James Miller</starring>
+            <starring>Saira Shah</starring>
+            <starring>Chris Pine</starring>
+        </casts>
+        <video>//www.youtube.com/embed/xpfKsD7Cj8M</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>September 11</title>
+        <description>
+          ///////////////////////////////////////////////////
+        </description>
+        <directors>
+            <director>
+                <name>Youssef Chahine</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Youssef Chahine</starring>
+            <starring>Claude Lelouch</starring>
+            <starring>Samira Makhmalbaf</starring>
+        </casts>
+        <video>//www.youtube.com/embed/JKJOXRt-xQo</video>
+        <price>‎Price € 7.99</price>
+    </movie>
+     <movie>
+        <title>Unforgiven</title>
+        <description>
+         ////////////////////////////////////////////////////////////////////////////
+        <directors>
+            <director>
+                <name> Clint Eastwood</name>
+            </director>
+        </directors>
+        <casts>
+            <starring> Clint Eastwood</starring>
+            <starring>Gene Hackman</starring>
+            <starring>Rick Freeman</starring>
+        </casts>
+       <video>//www.youtube.com/embed/OAzatpD2TzE</video>
+        <price>‎‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>Dances With Wolves</title>
+        <description>
+           /////////////////////////////////////////////////////////////////////////
+        <directors>
+            <director>
+                <name> Kevin Costner</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Kevin Costner</starring>
+            <starring>Mary Mcdonnell</starring>
+            <starring>Graham Greene</starring>
+        </casts>
+       <video>//www.youtube.com/embed/o_K6y8ihyi8</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>From Paris With Love</title>
+        <description>
+           ////////////////////////////////////////////////////////////////////////
+        <directors>
+            <director>
+                <name>Pierre Morel</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>John Travolta</starring>
+            <starring>Jonathan Meyers</starring>
+            <starring>Kasia Smutniak</starring>
+        </casts>
+        <video>//www.youtube.com/embed/t40DINNGjYE</video>
+        <price>‎Price € 6.99</price>
+    </movie>
+    
+</store>

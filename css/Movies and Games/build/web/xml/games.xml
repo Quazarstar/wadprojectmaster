@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<store>
+    <movie>
+        <title>21 Jump Street</title>
+        <description>
+            In the action-comedy 21 Jump Street, Schmidt (Jonah Hill) and 
+            Jenko (Channing Tatum) are more than ready to leave their adolescent problems behind.
+            Joining the police force and the secret Jump Street unit, they use their youthful appearances to go undercover in a local high school. 
+        </description>
+        <directors>
+            <director>
+                <name> Channing Tatum</name>
+            </director>
+        </directors>
+        <casts>
+            <starring> Jack Nicholson</starring>
+            <starring>Georgianna Carter</starring>
+            <starring>Robert Bean</starring>
+        </casts>
+        <movieImage>images/Jumpstreet.jpg</movieImage>
+       <video>//www.youtube.com/embed/ZirgAYBcOgo</video>
+        <price>‎‎Price € 9.99</price>
+    </movie>
+    <movie>
+        <title>Wild Ride</title>
+        <description>
+            Johnny Varron is a smart mouthed, arogant punk and 'Top Man' of the gang. 
+            Johnny rules his gang with an iron fist,dictating activities, 
+            designating girlfriends as 'in' or 'out' when his second lieutenant and 
+            best friend Dave fallsfor a girl, who will not fit in with the gangs 'code'. 
+            Things start to go down hill for all concerned...
+        </description>
+        <directors>
+            <director>
+                <name> Harvey Berman</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Jack Nicholson</starring>
+            <starring>Georgianna Carter</starring>
+            <starring>Charles Dance</starring>
+        </casts>
+        <video>//www.youtube.com/embed/3GAJR-sYoKU</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>Big Sleep</title>
+        <description>
+            Fearless optimist Anna sets off on an epic journey-teaming up with rugged mountain man 
+            Kristoff and his loyal reindeer Sven-to find her sister Elsa, whose icy powers have trapped 
+            the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical 
+            trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom.
+        </description>
+        <directors>
+            <director>
+                <name>Phil Lord</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Kristen Bell</starring>
+            <starring>Idina Menzel</starring>
+            <starring>Jonathan Groff</starring>
+        </casts>
+        <video>//www.youtube.com/embed/VjJlBnfyiI4</video>
+        <price>‎Price € 5.99</price>
+    </movie>
+     <movie>
+        <title>Brother Bear</title>
+        <description>
+            In Walt Disney Pictures' animated feature BROTHER BEAR beautiful animation of the Pacific Northwest depicts 
+            wonderfullyintimidating snowcapped mountains and glaciers, beautiful springtime forest scenes, 
+            rivers full of leaping salmon,and lots of interesting wildlife--from tiny squirrels and 
+            chipmunks to giant wooly mammoths. 
+        </description>
+        <directors>
+            <director>
+                <name> Aaron Blaise</name>
+            </director>
+        </directors>
+        <casts>
+            <starring> Joaquin Phoenix</starring>
+            <starring>Jeremy Suarez</starring>
+            <starring>Rick Moranis</starring>
+        </casts>
+       <video>//www.youtube.com/embed/B80VKbxZs6E</video>
+        <price>‎‎Price € 9.99</price>
+    </movie>
+    <movie>
+        <title>The Losers</title>
+        <description>
+            Johnny Varron is a smart mouthed, arogant punk and 'Top Man' of the gang. 
+            Johnny rules his gang with an iron fist,dictating activities, 
+            designating girlfriends as 'in' or 'out' when his second lieutenant and 
+            best friend Dave fallsfor a girl, who will not fit in with the gangs 'code'. 
+            Things start to go down hill for all concerned...
+        </description>
+        <directors>
+            <director>
+                <name> Sylvain White</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Zoe Saldana</starring>
+            <starring>Idris Elba</starring>
+            <starring>Jeffrey Dean</starring>
+        </casts>
+       <video>//www.youtube.com/embed/o_K6y8ihyi8</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>Death In Gaza</title>
+        <description>
+            Fearless optimist Anna sets off on an epic journey-teaming up with rugged mountain man 
+            Kristoff and his loyal reindeer Sven-to find her sister Elsa, whose icy powers have trapped 
+            the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical 
+            trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom.
+        </description>
+        <directors>
+            <director>
+                <name>James Miller</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>James Miller</starring>
+            <starring>Saira Shah</starring>
+            <starring>Chris Pine</starring>
+        </casts>
+        <video>//www.youtube.com/embed/xpfKsD7Cj8M</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>September 11</title>
+        <description>
+            This film is a unique and extraordinary response to the catastrophic events in New York City that shook 
+            the world onSeptember 11, 2001. producer Alain Brigand invited 11 renowned 
+            international directors to look towards their own cultures,their own memories, 
+            their own stories and their own language, and create a film lasting 
+        </description>
+        <directors>
+            <director>
+                <name>Youssef Chahine</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Youssef Chahine</starring>
+            <starring>Claude Lelouch</starring>
+            <starring>Samira Makhmalbaf</starring>
+        </casts>
+        <video>//www.youtube.com/embed/JKJOXRt-xQo</video>
+        <price>‎Price € 7.99</price>
+    </movie>
+     <movie>
+        <title>Unforgiven</title>
+        <description>
+            Dedicated to his mentors Sergio Leone and Don Siegel, Clint Eastwood's 1992 Oscar-winner examines the mythic violence ofthe Western, 
+            taking on the ghosts of his own star past.Disgusted by Sheriff Little Bill Daggett's decree that severalponies make up 
+            for a cowhand's slashing a whore's face, Big Whiskey prostitutes, led by fierce Strawberry Alice(Frances Fisher), 
+            take justice into their own hands and put a $1000 bounty on the lives of the perpetrators. 
+        </description>
+        <directors>
+            <director>
+                <name> Clint Eastwood</name>
+            </director>
+        </directors>
+        <casts>
+            <starring> Clint Eastwood</starring>
+            <starring>Gene Hackman</starring>
+            <starring>Rick Freeman</starring>
+        </casts>
+       <video>//www.youtube.com/embed/OAzatpD2TzE</video>
+        <price>‎‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>Dances With Wolves</title>
+        <description>
+            Rewarded for his heroism in the Civil War, Lt. John Dunbar (Costner), wants to see the 
+            American Frontier before it is gone.He is assigned to an abandoned fort 
+            where a Sioux tribe is his only neighbour. Overcoming the language 
+            barrier and theirmutual fear and distrust, Dunbar and the proud...
+        </description>
+        <directors>
+            <director>
+                <name> Kevin Costner</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>Kevin Costner</starring>
+            <starring>Mary Mcdonnell</starring>
+            <starring>Graham Greene</starring>
+        </casts>
+       <video>//www.youtube.com/embed/o_K6y8ihyi8</video>
+        <price>‎Price € 4.99</price>
+    </movie>
+    <movie>
+        <title>From Paris With Love</title>
+        <description>
+           A low-ranking intelligence operative working in the office of the U.S. 
+            Ambassador in France takes on more than hebargained for when he 
+            partners with a wisecracking, fast-shooting, high-ranking U.S. 
+            agent who's been sent to Paristo stop a terrorist attack.
+        </description>
+        <directors>
+            <director>
+                <name>Pierre Morel</name>
+            </director>
+        </directors>
+        <casts>
+            <starring>John Travolta</starring>
+            <starring>Jonathan Meyers</starring>
+            <starring>Kasia Smutniak</starring>
+        </casts>
+        <video>//www.youtube.com/embed/t40DINNGjYE</video>
+        <price>‎Price € 6.99</price>
+    </movie>
+    
+</store>

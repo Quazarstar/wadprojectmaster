@@ -1,0 +1,31 @@
+.left{
+    background-image: url("greyscale.jpg");
+    width:100;
+    min-height:300px;
+    border-bottom:2px solid black;
+    border-left:1px solid black;
+    border-right:1px solid black;
+    border-top:1px solid black;
+}
+
+.right{
+    background-image: url("grey.jpg");
+    width:100;
+    min-height:450px;
+    border-bottom:2px solid black;
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-top:1px solid black;
+}
+
+
+.container{
+    background-color: white;
+    
+    
+}
+
+body{
+ background-color :  #f2f2f2;
+}
+

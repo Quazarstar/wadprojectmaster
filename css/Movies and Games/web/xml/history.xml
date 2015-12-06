@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="../xsl/historyevent.xsl" type="text/xsl"?>
+<history>
+    <country>
+        <name>Games</name>
+        <overview>Currently a republic - constitutional democracy. Founded 1947. ....</overview>
+        <statistics>
+            <population type="approx">5,000,000</population>
+            <capitalCity>Dublin</capitalCity>
+            <etc/>
+        </statistics>
+        <era type="modern">
+            <dateFrom>1900</dateFrom>
+            <dateTo>Present</dateTo>
+            <events>
+                <event id="1">
+                    <name>1916 Rising</name>
+                    <image>images/GPO1916.jpg</image>
+                    <date>1916</date>
+                    <background>Europe at war - WW1. etc.</background>
+                    <keyPersons>
+                        <person>P. Pearse</person>
+                        <person>M. Collins</person>
+                        <person>E. de Valera</person>
+                        <etc/>
+                    </keyPersons>
+                    <details>
+                        <detail id="1">Battle at Bolands Mill</detail>
+                        <detail id="2">GPO</detail>
+                    </details>
+                </event>
+                <event id="2">
+                    <name>War of Independence</name>
+                    <image>images/WarInd.jpg</image>
+                    <date>1919-1922</date>
+                    <background>Treaty causes split leads to civil war</background>
+                    <keyPersons>
+                        <person>P. Pearse</person>
+                        <person>M. Collins</person>
+                        <person>E. de Valera</person>
+                        <etc/>
+                    </keyPersons>
+                    <details>
+                        <detail id="1">Collins shot</detail>
+                    </details>
+                </event>
+                <event id="3">
+                    <name>The Fall of XML (Sort of (*_*) )</name>
+                    <image>images/XML.jpg</image>
+                    <date>2012-Present</date>
+                    <background>Turns out to be a lot more complicating than i thought</background>
+                    <keyPersons>
+                        <person>Sir. Servlet</person>
+                        <person>Sir. Transformer</person>
+                        <person>Sir. Java</person>
+                        <etc/>
+                    </keyPersons>
+                    <details>
+                        <detail id="1">Practice is the key! </detail>
+                    </details>
+                </event>
+            </events>
+        </era>
+    </country>
+    <country>
+        <name>France</name>
+        <overview>Currently a republic - constitutional democracy. Founded about 1796. ....</overview>
+        <statistics>
+            <population type="approx">50,000,000</population>
+            <capitalCity>Paris</capitalCity>
+            <etc/>
+        </statistics>
+        <era type="modern">
+            <dateFrom>1900</dateFrom>
+            <dateTo>Present</dateTo>
+            <events>
+                <event id="1">
+                    <name>WW1</name>
+                    <image>images/WW1France.jpg</image>
+                    <date>1916</date>
+                    <background>Europe at war - WW1. etc.</background>
+                    <keyPersons>
+                        <person>The unknown soldier</person>
+                    </keyPersons>
+                    <details>
+                        <detail id="1">Battle of Somme</detail>
+                    </details>
+                </event>
+            </events>
+        </era>
+    </country>
+</history>

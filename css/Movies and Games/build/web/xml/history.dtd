@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/history.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE history SYSTEM "history.dtd">
+
+    <history>
+    ...
+    </history>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT history (country)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT country (era|statistics|overview|name)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT overview (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT statistics (etc|capitalCity|population)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT population (#PCDATA)>
+<!ATTLIST population
+    type CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT capitalCity (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT etc EMPTY>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT era (events|dateTo|dateFrom)*>
+<!ATTLIST era
+    type CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dateFrom (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT dateTo (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT events (event)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT event (details|keyPersons|background|date|image|name)*>
+<!ATTLIST event
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT image (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT date (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT background (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT keyPersons (etc|person)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT person (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT details (detail)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT detail (#PCDATA)>
+<!ATTLIST detail
+    id CDATA #IMPLIED
+  >
